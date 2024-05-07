@@ -12,8 +12,10 @@ monAI，基于模仿的印象派AI，打造普通人也能训练和使用的文�
 训练背景：上传图片后点击提交原图/背景
 ![image](https://github.com/dannyxycheung/monAI/assets/130076937/bfa83037-5a2d-4f5e-b416-f7cca97e36ec)
 2、生成图片：
+
 ![image](https://github.com/dannyxycheung/monAI/assets/130076937/b7ac9971-1317-4bd6-97e4-06fe1ce5999f)
 输入要画的内容，点击开始作画
+
 ![image](https://github.com/dannyxycheung/monAI/assets/130076937/7154c2e5-dd69-4cd6-bcd0-b159f6ecbd17)
 
 todo：
